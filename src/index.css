@@ -52,3 +52,15 @@ a{
   width: 20px;
   margin-left: 10px;
 }
+/* ======= media query ========== */
+
+@media(max-width: 1200px){
+  .container{
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .btn{
+    
+    padding: 14px 22px;
+  }
+}
