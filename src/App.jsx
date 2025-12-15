@@ -10,6 +10,7 @@ import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 import VideoPlayer from './components/videoPlayer/VideoPlayer'
 
+
 const App = () => {
   const [playState, setPlayState] = useState(false);
 
