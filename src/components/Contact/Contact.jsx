@@ -56,7 +56,7 @@ const Contact = () => {
             <img src={mail_icon} alt="mail icon" /> contact@sakibdeveloper.com
           </li>
           <li>
-            <img src={phone_icon} alt="phone icon" /> 0123456789
+            <img src={phone_icon} alt="phone icon" /> 01834322352
           </li>
           <li>
             <img src={location_icon} alt="location icon" /> Dhaka, Tajgaon,
